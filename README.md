@@ -3,7 +3,7 @@
 I developed a comprehensive **Sales Performance Analysis Project** in Excel, creating multiple modern dashboards and tables to analyze and visualize sales data. This project involved several stages, including **data preprocessing**, **data cleaning**, and **data visualization**, to ensure accurate and insightful results.
 
 ## Dataset Used
-- **Dataset:** [[Home Store Sales Performance Dataset](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.xlsx)](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/c5e6bc5f492a990d65c4b31027126fc1b0cc1c53/Store%20sales%20dataset.xlsx)
+- **Dataset:** [Home Store Sales Performance Dataset](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.xlsx)
 
 ## Key Performance Indicators (KPIs)
 1. **Month-wise New Clients:** Track the number of new clients acquired each month.

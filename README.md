@@ -11,3 +11,10 @@ I developed a comprehensive Project about “Sales Performance” in Excel, Crea
 -	Top- Products
 -	Customer wise Average Checks/Bills
 -	Compare Inventory and Sales Performance
+-	## Dashboard Interaction
+-	Dashboard Interaction <a href= “”
+## Process
+-	Verify data for any missing values and anomalies, and sort out the same.
+-	Made sure data is consistent and clean with respect to data type, data format and values used.
+-	Created Pivot tables according to the questions asked.
+-	Merge all pivot tables into one dashboard and apply slicer to make dynamic.

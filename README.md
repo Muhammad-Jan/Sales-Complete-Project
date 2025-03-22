@@ -18,3 +18,5 @@ I developed a comprehensive Project about “Sales Performance” in Excel, Crea
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
 -	Created Pivot tables according to the questions asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard Picture
+- Dashboard Picture <a href = "https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.jpg"> Dashboard Picture</a>

@@ -12,7 +12,7 @@ I developed a comprehensive Project about “Sales Performance” in Excel, Crea
 -	Customer wise Average Checks/Bills
 -	Compare Inventory and Sales Performance
 -	## Dashboard Interaction
--	Dashboard Interaction <a href= “”
+-	Dashboard Interaction <a href= “https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.xlsx”
 ## Process
 -	Verify data for any missing values and anomalies, and sort out the same.
 -	Made sure data is consistent and clean with respect to data type, data format and values used.

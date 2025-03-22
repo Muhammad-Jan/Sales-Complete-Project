@@ -35,7 +35,7 @@ I developed a comprehensive **Sales Performance Analysis Project** in Excel, cre
    - Added **slicers** to make the dashboard interactive and user-friendly.
 ## Dashboard Screenshot
 - **Dashboard Preview:** [Dashboard Picture](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.jpg)
-[Home Store Sales Performance Dataset](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.xlsx)
+![Home Store Sales Performance Dashboard](https://github.com/Muhammad-Jan/Sales-Complete-Project/blob/main/Home%20Store%20Sales%20Performance.jpg)
 ## Tools Used
 - **Microsoft Excel:** For data cleaning, analysis, and visualization.
 - **Pivot Tables and Charts:** For summarizing and visualizing data.
